@@ -1,0 +1,18 @@
+{
+  "alias": "SQLPlayerList",
+  "directories": [
+    "src",
+    "src/LessQL",
+    "src/BasePlugin",
+    "src/BasePlugin/Common",
+    "src/BasePlugin/Exception",
+    "src/mops1k/SQLPlayerList/Listener"
+  ],
+  "files": [
+    "plugin.yml",
+    "resources/config.yml"
+  ],
+  "main": "src/BasePlugin/Plugin.php",
+  "output": "SQLPlayerList.phar",
+  "stub": true
+}
